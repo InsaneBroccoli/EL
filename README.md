@@ -9,9 +9,7 @@ $$
 #### Ausschaltvorgang bei einer stromführenden Spule
 
 Maschensatz:
-$$
-\displaystyle R i_R(t) + L \frac{d i_L(t)}{dt} = 0
-$$
+$$\displaystyle R i_R(t) + L \frac{d i_L(t)}{dt} = 0$$
 
 Bauteilgleichungen:
 $$
