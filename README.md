@@ -44,9 +44,7 @@ $$
 $$
 
 - Eulersche Form der imaginären Einheit:
-$$
-\displaystyle i = e^{i\frac{\pi}{2}}
-$$
+$$\displaystyle i = e^{i\frac{\pi}{2}}$$
 
 - Eulersche Form der negativen reellen Einheit:
 $$
