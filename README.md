@@ -24,7 +24,7 @@ $$\displaystyle i(t) = I_0 e^{-\frac{R}{L}t} \quad \text{und} \quad u_L(t) = L \
 #### Harmonische Signale und Ihre Darstellung
 
 - Summe einer komplexen Zahl mit ihrer Konjugierten:
-$$\displaystyle x + x^* = 2 \Re (x)$$
+$$\displaystyle x + x^* = 2 \text{Re}(x)$$
 
 - Produkt einer komplexen Zahl mit ihrer Konjugierten:
 $$\displaystyle x \cdot x^* = |x|^2$$
